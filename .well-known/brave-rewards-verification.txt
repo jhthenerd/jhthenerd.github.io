@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: jasonhuang.tech
+Token: 113a1c46b5906f1a3f2f255ffad9394f3df77eb69556871c16412f60c81c0e1b
