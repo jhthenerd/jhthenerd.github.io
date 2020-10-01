@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: jhthenerd.github.io
-Token: 17331e0ac8a54aaaee910e3e2d5c06745e142deba8dd0cce08c095f4d12ff672
